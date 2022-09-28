@@ -1,8 +1,8 @@
 <!--
  * @Author: SHEN_XAIN_KUN
- * @Date: 2022-09-26 22:52:12
+ * @Date: 2022-09-28 14:39:00
  * @LastEditors: SHEN_XAIN_KUN
- * @LastEditTime: 2022-09-26 22:58:28
+ * @LastEditTime: 2022-09-29 00:21:02
 -->
 # smartCar
 The smart car is a highly computerized automobile featuring ubiquitous computing, intuitive human-computer interaction and an open application platform. Here, we propose an advanced Smart Car demonstration platform with a transparent windshield display and various motion sensors where drivers can manipulate a variety of car-appropriate applications in augmented reality. Similar to smartphones, drivers can customize their Smart Car through free downloads of car-appropriate applications according to their wants and needs. 
@@ -38,3 +38,4 @@ driver’svision field is increased. Upper and lower portions represent the driv
 before and after using the application.
 
 #109360134 沈咸褌 hello
+#2022/9/29 12:20
